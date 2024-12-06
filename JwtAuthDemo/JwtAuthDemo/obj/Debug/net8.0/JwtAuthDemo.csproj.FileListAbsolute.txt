@@ -1,0 +1,80 @@
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.exe
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.deps.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.runtimeconfig.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.pdb
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.AssemblyInfo.cs
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\scopedcss\bundle\JwtAuthDemo.styles.css
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthD.04A440BA.Up2Date
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\refint\JwtAuthDemo.dll
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.pdb
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.genruntimeconfig.cache
+C:\Users\nguye\source\repos\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\ref\JwtAuthDemo.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\appsettings.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.exe
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.deps.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.runtimeconfig.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\JwtAuthDemo.pdb
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.csproj.AssemblyReference.cache
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.AssemblyInfoInputs.cache
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.AssemblyInfo.cs
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\scopedcss\bundle\JwtAuthDemo.styles.css
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthD.04A440BA.Up2Date
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\refint\JwtAuthDemo.dll
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.pdb
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\JwtAuthDemo.genruntimeconfig.cache
+D:\Hướng kiến trúc dịch vụ\JwtAuthDemo\JwtAuthDemo\JwtAuthDemo\obj\Debug\net8.0\ref\JwtAuthDemo.dll
